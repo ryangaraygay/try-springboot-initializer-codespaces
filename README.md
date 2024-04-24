@@ -1,5 +1,7 @@
 # try-springboot-initializer-codespaces
-Want a springboot project without desktop IDE and instead use codespaces
+I wanted a springboot project without desktop IDE and instead just use codespaces.
+
+Here's one way I found to do it.
 
 Get spring initialization template/files
 1) goto https://start.spring.io/ to configure your starting template for springboot
